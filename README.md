@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there, I'm Learnzie 👋
+- 🔭A front end developer.
+- 📫 Email: oluwatola15@gmail.com
+- ⚡ Fun fact: I'm good at what I do
 <!--
 **learnzie/Learnzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
