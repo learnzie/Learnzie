@@ -1,7 +1,10 @@
 ### Hi there, I'm Learnzie 👋
 - 🔭A front end developer.
+- Love sleeping
+- I believe in a world where all things are possible
+- I'm good at what I do
 - 📫 Email: oluwatola15@gmail.com
-- ⚡ Fun fact: I'm good at what I do
+- ⚡ Fun fact: I'm also a Civil Engineer
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <!--
 **learnzie/Learnzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
