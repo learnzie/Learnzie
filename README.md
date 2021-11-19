@@ -1,6 +1,5 @@
 ### Hi there, I'm Learnzie 👋
 - 🔭A front end developer.
-- Love sleeping
 - I believe in a world where all things are possible
 - I'm good at what I do
 - 📫 Email: oluwatola15@gmail.com
