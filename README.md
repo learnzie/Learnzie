@@ -1,7 +1,7 @@
 ### Hi there, I'm Learnzie 👋
 - 🔭A front end developer.
-- I believe in a world where all things are possible
 - I'm good at what I do
+- I believe in a world where all things are possible
 - 📫 Email: oluwatola15@gmail.com
 - ⚡ Fun fact: I'm also a Civil Engineer
 <!--
