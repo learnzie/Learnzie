@@ -6,10 +6,10 @@
 
 #### Expertise Snapshot:
 
-💻 HTML, CSS, JavaScript: My creativity thrives on these foundations.
-🎨 Responsive Design: Seamlessness across devices is key.
-⚙️ UI/UX Principles: I'm dedicated to creating interfaces that not only look great but also provide intuitive user experiences.
-🛠️ Continous Learning: Staying updated with evolving tech trends is my jam.
+-💻 HTML, CSS, JavaScript: My creativity thrives on these foundations.
+-🎨 Responsive Design: Seamlessness across devices is key.
+-⚙️ UI/UX Principles: I'm dedicated to creating interfaces that not only look great but also provide intuitive user experiences.
+-🛠️ Continous Learning: Staying updated with evolving tech trends is my jam.
 
 Let's dive into the code ocean and craft wonders! 🌍🌟
 
