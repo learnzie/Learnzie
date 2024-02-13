@@ -6,7 +6,7 @@
 
 #### Expertise Snapshot:
 
-- 💻 HTML, CSS(Tailwind and Bootstrap), JavaScript, React Js, Typescript: My creativity thrives on these foundations.
+- 💻 HTML, CSS(Tailwind, Bootstrap and MUI), JavaScript, React Js, Typescript: My creativity thrives on these foundations.
 - 🎨 Responsive Design: Seamlessness across devices is key.
 - ⚙️ UI/UX Principles: I'm dedicated to creating interfaces that not only look great but also provide intuitive user experiences.
 - 🛠️ Continous Learning: Staying updated with evolving tech trends is my jam.
