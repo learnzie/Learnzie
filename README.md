@@ -1,15 +1,18 @@
 ## Hello, World! 👋 I'm Learnzie, a Front-End Developer 🚀
- ### I'm thrilled to have you on my GitHub turf. Here's a snapshot of what you'll find here:
+ ### Welcome to my GitHub! Here's a snapshot of what you'll find here:
 - 🎨 Crafting Experiences: I'm all about turning design dreams into interactive web realities. User-friendly and captivating front-end interfaces are my playground.
 - 🌈 Endless Possibilities: The digital realm is brimming with opportunities. Armed with code and imagination, I'm on a mission to reshape the world with innovation and user-centered solutions.
-- 📫 Let's Collaborate: Open to discussions, collaborations, and idea-sharing. Ping me at oluwatola15@gmail.com, and let's weave some coding magic together!
+- 📫 Let's Collaborate: Open to discussions, collaborations, and idea-sharing.  Reach out at oluwatola15@gmail.com, to weave some coding magic together!
 
 #### Expertise Snapshot:
 
-- 💻 HTML, CSS(Tailwind, Bootstrap and MUI), JavaScript, React Js, Typescript: My creativity thrives on these foundations.
-- 🎨 Responsive Design: Seamlessness across devices is key.
-- ⚙️ UI/UX Principles: I'm dedicated to creating interfaces that not only look great but also provide intuitive user experiences.
-- 🛠️ Continous Learning: Staying updated with evolving tech trends is my jam.
+- 💻 HTML, CSS(Tailwind, Bootstrap and MUI), JavaScript, React Js, Typescript: My core tools.
+- 🌐 API Integration: Seamlessly connecting front-end with back-end.
+- 📦 Redux: State management for complex applications.
+- 🎨 Responsive Design: Ensuring a seamless experience across all devices.
+- ⚙️ UI/UX Principles: Committed to intuitive and beautiful interfaces.
+- 📈 Scrum & Agile: Embracing efficient workflows and iterative development.
+- 🛠️ Continous Learning: Always staying updated with the latest tech trends.
 
 Let's dive into the code ocean and craft wonders! 🌍🌟
 
