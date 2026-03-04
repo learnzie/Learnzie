@@ -1,4 +1,41 @@
-## Hello, World! 👋 I'm Learnzie, a Front-End Developer 🚀
+## Hello, World! 👋 I'm Adelana (Learnzie) 🚀  
+### Frontend & Mobile Developer | React • Next.js • React Native • TypeScript
+
+Welcome to my GitHub 👨🏽‍💻
+
+I build responsive web and cross-platform mobile applications, translating UI/UX designs into scalable, production-ready interfaces. I focus on clean architecture, API integration, performance, and maintainable code.
+
+📫 Oluwatola15@gmail.com  
+🌐 https://adelanaagun.vercel.app/  
+💼 https://www.linkedin.com/in/adelana-agun-06b073243/  
+
+---
+
+### 💻 Tech Stack
+
+**Languages:** JavaScript (ES6+), TypeScript, HTML, CSS  
+
+**Frameworks & Libraries:** React.js, Next.js, React Native, Angular, Redux, Tailwind CSS, Bootstrap, Material-UI  
+
+**Practices:** Responsive Design, API Integration, Accessibility, Cross-Browser Compatibility, Agile/Scrum  
+
+**Tools:** Git, GitHub, VS Code, Postman, Figma, Vite, Expo  
+
+---
+
+### 🚀 Projects
+
+- **Pulse Connect** – Scalable engagement plugin powering airline and business platforms (contacts, campaigns, newsletters, refunds & enquiries).  
+- **Aviation Platforms** – Modern React-based airline websites integrated with booking engines and custom workflow modules.  
+- **Husmate** – Accommodation finder platform with dynamic listings, API integration, and secure messaging.  
+- **Jekajodawo** – Collaborative savings web app built with Next.js.
+
+---
+
+Always building. Always learning.
+
+
+<!-- ## Hello, World! 👋 I'm Learnzie, a Front-End Developer 🚀
  ### Welcome to my GitHub! Here's a snapshot of what you'll find here:
 - 🎨 Crafting Experiences: I'm all about turning design dreams into interactive web realities. User-friendly and captivating front-end interfaces are my playground.
 - 🌈 Endless Possibilities: The digital realm is brimming with opportunities. Armed with code and imagination, I'm on a mission to reshape the world with innovation and user-centered solutions.
@@ -17,7 +54,7 @@
 Let's dive into the code ocean and craft wonders! 🌍🌟
 
 
-
+-->
 
 
 
